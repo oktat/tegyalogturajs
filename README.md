@@ -1,3 +1,5 @@
-# Sablon
+# Gyalogtúra
 
-Sablon fájl a projekt leírására.
+Gyalogtúra verseny adatainak feldolgozása.
+
+Tesztelésre szánt alkalmazás.
